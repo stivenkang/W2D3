@@ -32,6 +32,8 @@ class Battleship
         false
     end
 
+    # comment comment comment 
+    
     def game_over?
         if self.win? || self.lose?
             return true
